@@ -1,2 +1,2 @@
-# Connect4_IA
-Connect4 on Python with IA (MinMax Algorithm)
+# Connect4_AI
+Connect4 on Python with AI (MinMax Algorithm)
